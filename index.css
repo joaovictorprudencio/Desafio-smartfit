@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+img{
+    /* altura e largura*/
+    width: 100px;
+    height: 100px;
+   margin-bottom: 4px;
+}
+
+ /*fim do  cabeçalho*/
+
+ .reabertua{
+    font-family: roboto;
+    font-size: 22px;    
+    margin-top: 60px;
+    margin-left: 100px;
+ }
+
+ h2{
+    margin-top: 12px;
+    width: 80px;
+    height: 8px;
+    background-color: black;
+ }
