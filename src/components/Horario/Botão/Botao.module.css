@@ -1,0 +1,22 @@
+.doisBotoes{
+    margin-top: 14px;
+    justify-content: center;
+    display: flex;
+    
+
+}
+.Botao1{
+    font-family:  Arial, sans-serif;
+   
+    background-color: rgb(230, 179, 41);
+    padding: 12px 90px;
+    border-radius: 5px;
+    border: none;
+}
+.Botao2{
+    margin-left: 20px;
+    background-color: #fff;
+    padding: 12px 130px ;
+    border-radius: 5px;
+    border: 1px solid rgb(189, 188, 188);
+}

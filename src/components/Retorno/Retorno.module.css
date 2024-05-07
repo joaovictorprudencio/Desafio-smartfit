@@ -1,0 +1,48 @@
+.container{
+    border-radius: 6px;
+    border: 1px solid rgb(192, 192, 192);
+    background-color: rgb(230, 230, 230);
+    width: 290px;
+    height: 400px;
+    margin-right: 9px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+ 
+}
+.corpo{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.imagens{
+    display: flex;
+}
+
+img{
+    width: 70px;
+    height: 70px;
+}
+
+.status{
+    margin-left: 12px;
+    margin-top: 12px;
+    font-family: Arial;
+    color: rgb(19, 180, 27);
+}
+.rua{
+    margin-left: 10px;
+    font-family: Arial;
+}
+.endereço{
+    margin-left: 10px;
+    font-family: Arial; 
+}
+.horarios{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-left: 10px;
+    font-family: Arial;  
+}

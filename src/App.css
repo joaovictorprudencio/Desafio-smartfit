@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+  }
+.corpo{
+  
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}

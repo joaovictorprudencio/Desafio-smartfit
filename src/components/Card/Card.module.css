@@ -1,0 +1,41 @@
+.Card{
+    border-radius: 6px;
+    margin-top: 20px;
+    background-color: rgb(238, 238, 238);
+    margin-left: 100px;
+    gap:50px;
+    width: 860px;
+    height: 150px;
+    display: flex;
+}
+
+.item{
+  
+    margin-top: 15px;
+    margin-left: 5px;
+
+}
+.flex{
+    display: flex;
+}
+
+.sumario{
+    color: rgb(100, 100, 100);
+    font-size: 13px;
+    font-family: Arial; 
+
+}
+
+.nome{
+    
+    font-family: Arial, sans-serif;
+    margin-bottom: 3px;
+    margin-left: 90px;
+}
+
+.normal{
+  margin-right: 4px;
+   width: 70px;
+   height: 70px;
+}
+

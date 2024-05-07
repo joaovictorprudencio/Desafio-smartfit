@@ -1,0 +1,24 @@
+.hora{
+  display: flex;
+       
+   
+}
+.horario{
+  color: rgb(95, 95, 95);
+  font-family: Arial;
+  margin-left: 11px;
+  margin-top: 14px;
+}
+
+.imagem_hora{
+ margin-left: 15px;
+        margin-top: 13px;
+        width: 20px;
+        height: 20px;
+}
+
+
+
+
+
+
